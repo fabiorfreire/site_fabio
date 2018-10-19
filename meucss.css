@@ -1,0 +1,155 @@
+*{
+	margin:0;
+	padding:0;
+}	
+
+#topo{
+	height:100px;
+	
+	background-color:orange;
+	 
+}
+
+#menu ul{
+		
+	background-color: blue;
+}
+
+#menu ul li{
+		
+	display: inline-table;
+	padding:20px 30px;
+	cursor:pointer;
+}
+
+#menu ul li:hover{
+	background-color: gray;
+}
+
+#menu ul li a{
+		
+	text-decoration:none;	
+	color:white;
+}
+
+#Conteudo{
+	background-color: white;
+	min-height:450px;
+}
+#Conteudo{
+        background-image: url("imagem/Construcao.jpg");  
+        background-repeat: no-repeat; 
+		min-height:500px;
+}
+
+
+
+
+#sendo{
+        background-image: url("imagem/Contato.jpg");  
+        background-repeat: no-repeat; 
+		min-height:550px;
+}
+
+
+#Valor{
+        background-image: url("imagem/variedade.jpg");  
+        background-repeat: no-repeat; 
+		width: 402px;
+		height: 125px;
+}
+
+#Contato{
+        background-image: url("imagem/sobral-materiais-para-construc.jpg");  
+        background-repeat: no-repeat; 
+		min-height:450px;
+}
+
+#Cimento{
+        background-image: url("imagem/Cimento.png");  
+        background-repeat: no-repeat; 
+		min-height:150px;
+}
+
+#Tijolo{
+        background-image: url("imagem/Tijolo.png");  
+        background-repeat: no-repeat; 
+		min-height:150px;
+}
+
+#Bacia{
+        background-image: url("imagem/Bacia.png");  
+        background-repeat: no-repeat; 
+		min-height:150px;
+}
+
+#Colunas{
+        background-image: url("imagem/Colunas.png");  
+        background-repeat: no-repeat; 
+		min-height:150px;
+}
+
+#Tijolo_ensacado{
+        background-image: url("imagem/Tijolo_ensacado.png");  
+        background-repeat: no-repeat; 
+		min-height:150px;S
+}
+
+div{
+border-radius: 5px;
+}
+#header {
+z-index: 1;
+position: absolute;
+width: 97.5%;
+margin-top: -20px;
+height: 60px;
+background-color: #00CED1;
+margin-bottom: 10px;
+}
+
+.left {
+position: relative;
+float: left;
+margin-top: 50px;
+width: 10%;
+height: 400px;
+background-color: #FF4500;
+margin-bottom: 10px;
+}
+
+.right {
+position: relative;
+float: right;
+margin-top: 50px;
+width: 88%;
+height: 400px;
+background-color: #54FF9f;
+margin-bottom: 10px;
+font-family: Arial Black;
+}
+
+#footer {
+position: relative;
+height: 50px;
+background-color: #00CED1;
+clear: both;
+font-family: Verdana, sans-serif;
+font-size: 14px;
+text-align: center;	
+color: #ffffff;
+}
+.right p{
+float: right;
+}
+
+div p{
+float:right;
+margin-top:100px;
+}
+
+
+		
+		
+		
+		
